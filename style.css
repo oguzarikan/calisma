@@ -1,0 +1,13 @@
+.renklendir{
+    color:#46b8da;
+}
+.boldekle{
+    font-weight: bolder;
+}
+.form{
+    background-color: #2aabd2;
+
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+}
